@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Object>
+    <ElementFields>
+        <Name Type="string" Editor="hide">GelatoParseSpecs</Name>
+        <DisplayName Type="string" Editor="hide"/>
+        <Version Type="number" Editor="hide">1</Version>
+        <Keywords Type="string" Editor="hide"/>
+        <Tooltip Type="string" Editor="hide"/>
+        <IncomingConnections RequireAtLeastOne="Yes" Editor="hide">Yes</IncomingConnections>
+        <OutgoingConnections RequireAtLeastOne="Yes" DetailedInfo="" Editor="hide">Unlimited</OutgoingConnections>
+        <ConnectionType Editor="hide">Move</ConnectionType>
+        <ScriptFunctions Editor="hide">jobArrived</ScriptFunctions>
+        <ExecutionMode Editor="hide">Serialized</ExecutionMode>
+        <NumberOfSlots Editor="hide">Default</NumberOfSlots>
+        <ExecutionGroup Editor="hide"/>
+        <PerformanceTuning Editor="hide">No</PerformanceTuning>
+        <IdleAfterJob Editor="hide">0</IdleAfterJob>
+        <PositionInElementPane Editor="hide">Configurators</PositionInElementPane>
+        <SubcategoryInElementPane Editor="hide">&lt;ValueDescription Type="stringlist">&lt;Value>Custom&lt;/Value>&lt;/ValueDescription></SubcategoryInElementPane>
+        <DispositionInElementPane Type="number" Editor="hide"/>
+        <Description Type="string" Editor="hide"/>
+        <Compatibility Type="string" Editor="hide"/>
+        <SupportInfo Type="string" Editor="hide"/>
+        <AppDiscovery Type="string" Editor="hide"/>
+        <Connections Type="string" Editor="hide"/>
+        <SwitchModule Type="string" Editor="hide"/>
+        <ObsoleteProperties Type="string" Editor="hide"/>
+        <ObsoleteConnectionProperties Type="string" Editor="hide"/>
+        <PdKeyPrintedMaterial Validation="Standard" LocalizedTagName="Printed Material PD Key" Subtype="inline" Default="PrintedMaterial" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar">PrintedMaterial</PdKeyPrintedMaterial>
+        <PdKeyProcess Validation="Standard" LocalizedTagName="Process PD Key" Subtype="inline" Default="Process" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar">Process</PdKeyProcess>
+        <PdKeyDuplex Validation="Standard" LocalizedTagName="Duplexing PD Key" Subtype="inline" Default="Duplexing" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar">Duplexing</PdKeyDuplex>
+        <PdKeyDefaultMedia Validation="Standard" LocalizedTagName="Default Media PD Key" Subtype="inline" Default="DefaultMedia" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar">DefaultMedia</PdKeyDefaultMedia>
+        <PdKeyPaper Validation="Standard" LocalizedTagName="Paper Description PD Key" Subtype="inline" Default="Paper" Tooltip="" DetailedInfo="" Type="string" Editor="inline;sltextwithvar">Paper</PdKeyPaper>
+        <Debug Validation="Standard" LocalizedTagName="Debug" Subtype="inline" Default="No" Tooltip="" DetailedInfo="" Type="bool" Editor="inline">No</Debug>
+    </ElementFields>
+    <ConnectionFields/>
+</Object>

@@ -1,0 +1,12 @@
+<Manifest>
+    <ScripterInstanceName>GelatoParseSpecs</ScripterInstanceName>
+    <ScriptPackageFormatVersion>1.0</ScriptPackageFormatVersion>
+    <ScripterPassword></ScripterPassword>
+    <ScriptDeclarationFile>GelatoParseSpecs.xml</ScriptDeclarationFile>
+    <ScriptProgramFiles>
+        <ScriptProgramFile ScriptLanguage="JavaScript">GelatoParseSpecs.js</ScriptProgramFile>
+    </ScriptProgramFiles>
+    <ScriptIconFile>gelato_icon.png</ScriptIconFile>
+    <AppleBinary></AppleBinary>
+    <LocalizationItems/>
+</Manifest>
